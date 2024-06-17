@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://raw.githubusercontent.com/MShahzaib3242/3d_worldmap_threejs/blob/master/public/3dglobe.gif)
+![alt text](https://raw.githubusercontent.com/MShahzaib3242/3d_worldmap_threejs/master/public/3dglobe.gif)
 
 View [LIVE DEMO](https://glowingborder.vercel.app/)
 

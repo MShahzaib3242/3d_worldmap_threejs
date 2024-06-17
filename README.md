@@ -4,11 +4,13 @@
 
 ![alt text](https://raw.githubusercontent.com/MShahzaib3242/3d_worldmap_threejs/master/public/3dglobe.gif)
 
-View [LIVE DEMO](https://glowingborder.vercel.app/)
+View [LIVE DEMO](https://3dglobe-muhammad-shahzaibs-projects-bf7a4d93.vercel.app/)
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run dev`
+or
+### `yarn dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.

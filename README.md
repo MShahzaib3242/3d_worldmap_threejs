@@ -1,4 +1,4 @@
-# Glowing Border Effect - ReactJs
+# 3D World Map using ThreeJs - NextJs
 
 
 

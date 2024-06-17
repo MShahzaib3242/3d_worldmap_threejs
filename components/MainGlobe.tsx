@@ -98,7 +98,7 @@ export function MainGlobe() {
     {
       order: 3,
       startLat: 21.3099,
-      startLng: -157.8581,
+      startLng: -157.8581, 
       endLat: 40.7128,
       endLng: -74.006,
       arcAlt: 0.3,
